@@ -1,5 +1,5 @@
 # museum_of_candy
 
-<img src="https://recordit.co/1r2Oruzxgl" alt="museum-of-candy" border="0">
+<img src="https://tinyimg.io/i/mzFM2Cn.gif" alt="museum-of-candy">
 a bootstrap project to explore responsive layouts
  
